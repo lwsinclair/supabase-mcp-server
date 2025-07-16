@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alexander-zuev-supabase-mcp-server-badge.png)](https://mseep.ai/app/alexander-zuev-supabase-mcp-server)
+
 # Query | MCP server for Supabase
 
 > 🌅 More than 17k installs via pypi and close to 30k downloads on Smithery.ai — in short, this was fun! 🥳
